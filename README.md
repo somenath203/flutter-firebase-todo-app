@@ -1,16 +1,6 @@
-# firebaseflutter
+# Flutter Firebase Todo App
 
-A new Flutter project.
+This is an applciation developed with the help of Flutter and Firebase where the user, after authenticating himself/herself successfully will be able to add todo which will be stored in his/her respective account. The user also has the option to delete the todo by swapping the todo left or right and along with that, the user can update a particular todo as well by just tapping on it.
 
-## Getting Started
+## Demo Video of the application
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
